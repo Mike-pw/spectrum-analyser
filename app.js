@@ -1,6 +1,8 @@
+//initialize source and stream variables
 let source
 let stream
 
+//audio context setup from user input options
 options.addEventListener("submit", function (e) {
   let sampleRate = document.querySelector("#sampleRate").value
 
