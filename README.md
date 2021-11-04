@@ -1,6 +1,6 @@
 # spectrum-analyser
 JavaScript Spectrum Analyser
 
-Browser based Audio Spectrum Analyser using plain JS/HTML/CSS and Web Audio API
+Audio Spectrum Analyser using JS/HTML/CSS
 
-Get's microphone input with getUserMedia and analyses and displays frequency response.
+Analyzes microphone input with Web Audio API and displays frequency response.
