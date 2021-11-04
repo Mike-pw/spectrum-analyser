@@ -1,0 +1,17 @@
+body {
+    width: 720px;
+    margin: auto;
+}
+
+form {
+    display: flex;
+    justify-content: space-around;
+}
+
+label {
+    margin-right: -100px;
+}
+
+canvas {
+    margin-top: 2em;
+}
